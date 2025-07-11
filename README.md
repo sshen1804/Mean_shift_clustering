@@ -1,1 +1,1 @@
-# Mean_shift_clustering
+# Clustering Algorithms (K-means vs. Mean Shift) 
